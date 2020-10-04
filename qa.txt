@@ -1,0 +1,7 @@
+country: UAE	capital: Abu Dhabi
+country: UK	capital: London
+country: Belgium	capital: Brussels
+country: Egypt	capital: Cairo
+country: China	capital: Beijing
+country: Japan	capital: Tokyo
+country: Bulagaria	capital: Sofia
